@@ -37,5 +37,5 @@ function showSlides(className, slideIndex) {
             break;
     }
     
-    setTimeout(function() { showSlides(className, slideIndex); }, 2000);
+    setTimeout(function() { showSlides(className, slideIndex); }, 4000);
 }
