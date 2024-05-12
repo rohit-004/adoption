@@ -1,8 +1,10 @@
+let slideIndex0 = 0;
 let slideIndex1 = 0;
 let slideIndex2 = 0;
 let slideIndex3 = 0;
 let slideIndex4 = 0;
 
+showSlides("slidex", slideIndex0);
 showSlides("slide1", slideIndex1);
 showSlides("slide2", slideIndex2);
 showSlides("slide3", slideIndex3);
